@@ -2,301 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9af51c-19eb-4bc8-8578-cfedb493108a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/ContributorsAgreement.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/FreeTTS_handout.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/FreeTTS_handout.sxw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/12-35.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/12-35.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/complex.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/complex.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/cookiecooks.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/cookiecooks.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/shoeshineshop.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/shoeshineshop.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/talkforever.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/talkforever.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/talkforever16.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/talkforever16.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/thanks.au" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/audio/thanks.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/TinyWebStartClock.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/img9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/images/speaker1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/utterance.sxd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/resources/inherit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/lib/jsapi.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/freetts1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/ANNOUNCE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/RELEASE_NOTES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/demo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/FreeTTSStuff.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/ProgrammerGuide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/create_php.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/emacspeak_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/html_copyright.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/jsapi_setup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/mixedsource_copyright.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/release_checklist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/shell_copyright.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/docs/source_copyright.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/BaseAudioManager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/BaseEngine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/BaseEngineProperties.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/EngineEventPanel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/EngineMonitor.EngineMonitorEngineListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/EngineMonitor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/SpeechEventDispatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/SpeechEventUtilities.SpeechAWTEvent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/SpeechEventUtilities.SpeechAWTEventTarget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/SpeechEventUtilities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/SpeechEventWrapper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/BaseSynthesizer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/BaseSynthesizerProperties.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/BaseSynthesizerQueueItem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/BaseVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/JSMLParser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/SynthesizerMonitor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/SynthesizerSelector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/VoiceList.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/TextEngineCentral.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/TextSynthesizer.OutputHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/TextSynthesizer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/TextSynthesizerModeDesc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/TextSynthesizerQueueItem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/engine/synthesis/text/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Age.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Dumpable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FeatureProcessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FeatureSet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FeatureSetImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FreeTTS.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FreeTTSSpeakable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FreeTTSSpeakableImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/FreeTTSTime.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Gender.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/InputMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/ItemContents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/OutputQueue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PartOfSpeech.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PartOfSpeechImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PathExtractor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PathExtractorImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PhoneDuration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PhoneDurations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PhoneDurationsImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PhoneSet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/PhoneSetImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/ProcessException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Relation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Segmenter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Token.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Tokenizer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Unit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Utterance.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/UtteranceProcessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/ValidationException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Validator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/Voice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/VoiceDirectory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/VoiceManager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/AudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/JavaClipAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/JavaStreamingAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/MultiFile8BitAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/MultiFileAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/NullAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/RawFileAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/SingleFileAudioPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/audio/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/CART.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/CARTImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/Durator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/Intonator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/Phraser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/cart/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/clunits/ClusterUnitDatabase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/clunits/ClusterUnitPitchmarkGenerator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/clunits/ClusterUnitSelector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/clunits/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/clunits/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/clunits/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/AliasDiphone.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/Diphone.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/DiphonePitchmarkGenerator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/DiphoneUnitDatabase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/DiphoneUnitSelector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/diphone/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/ContourGenerator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/PartOfSpeechTagger.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/PauseGenerator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/PostLexicalAnalyzer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/TokenizerImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMUArcticVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMUClusterUnitVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMUDiphoneVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMULexicon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMUTimeLexicon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMUTimeVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/CMUVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.Accented.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.AccentedSylIn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.Gpos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.LastAccent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.MonthRange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.NumDigits.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_CPlace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_CType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_CVox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_VC.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_VFront.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_VHeight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_VLength.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PH_VRnd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PosInSyl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.PositionType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegCodaFric.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegCodaGlide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegCodaNasal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegCodaStop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegOnsetCoda.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegOnsetFric.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegOnsetGlide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegOnsetNasal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegOnsetStop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SegmentDuration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.StressedSylIn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.StressedSylOut.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SubPhrases.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SylBreak.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SylCodaSize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SylIn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SylOnsetSize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.SylOut.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.TokenPosGuess.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.WordBreak.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.WordNumSyls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.WordPunc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/FeatureProcessors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/NumberExpander.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/PrefixFSM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/PronounceableFSM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/SuffixFSM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/TokenToWords.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/USEnglish.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/WordRelation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/en/us/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/FreeTTSEngineCentral.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/FreeTTSSynthesizer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/FreeTTSSynthesizerModeDesc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/FreeTTSSynthesizerQueueItem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/FreeTTSVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/jsapi/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/LetterToSound.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/LetterToSoundImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/Lexicon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/LexiconImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/lexicon/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/AudioOutput.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/LPCResult.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/Sample.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/SampleInfo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/SampleSet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/UnitConcatenator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/relp/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/BulkTimer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/SegmentRelationUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/Timer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/Utilities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/WaveUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/com/sun/speech/freetts/util/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/en/us/MbrolaVoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/en/us/MbrolaVoiceDirectory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/en/us/MbrolaVoiceValidator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/en/us/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/en/us/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/en/us/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/mbrola/MbrolaAudioOutput.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/mbrola/MbrolaCaller.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/mbrola/ParametersToMbrolaConverter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/mbrola/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/mbrola/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/de/dfki/lt/freetts/mbrola/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/packages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/lib/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/lib/jsapi.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/lib/voices.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/mbrola/README.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/speech.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/data/TestingData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/data/TrainingData.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/freetts.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/freetts.xml" afterPath="$PROJECT_DIR$/.idea/libraries/freetts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feed-forward-neural-network.iml" afterPath="$PROJECT_DIR$/feed-forward-neural-network.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/NeuralNetwork.java" afterPath="$PROJECT_DIR$/src/com/company/NeuralNetwork.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/utils/Tensor.java" afterPath="$PROJECT_DIR$/src/com/company/utils/Tensor.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NeuralNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NeuralNetwork.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -311,9 +19,8 @@
       <file leaf-file-name="TrainingData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/data/TrainingData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -321,21 +28,26 @@
       <file leaf-file-name="TestingData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="519" column="7" lean-forward="false" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="7785">
+              <caret line="519" column="7" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <file leaf-file-name="BinaryUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LineChart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/utils/LineChart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -343,13 +55,34 @@
       <file leaf-file-name="Tensor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/utils/Tensor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            <state relative-caret-position="255">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding>
-                <element signature="method#sum#0;class#Tensor#0" expanded="false" />
-                <element signature="method#square#0;class#Tensor#0" expanded="false" />
-                <element signature="method#applyToEachElement#0;class#Tensor#0" expanded="false" />
+                <element signature="method#sum#0;class#Tensor#0" />
+                <element signature="method#square#0;class#Tensor#0" />
+                <element signature="method#applyToEachElement#0;class#Tensor#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NeuralNetwork.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/NeuralNetwork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="913">
+              <caret line="65" column="87" lean-forward="true" selection-start-line="65" selection-start-column="87" selection-end-line="65" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -371,11 +104,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -384,11 +112,12 @@
         <option value="$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java" />
         <option value="$PROJECT_DIR$/src/com/company/utils/TextToSpeechConverter.java" />
         <option value="$PROJECT_DIR$/src/com/company/utils/Activation.java" />
-        <option value="$PROJECT_DIR$/src/com/company/NeuralNetwork.java" />
         <option value="$PROJECT_DIR$/src/com/company/data/TestingData.java" />
         <option value="$PROJECT_DIR$/src/com/company/data/TrainingData.java" />
         <option value="$PROJECT_DIR$/src/com/company/utils/Tensor.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/NeuralNetwork.java" />
       </list>
     </option>
   </component>
@@ -398,7 +127,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-8" />
     <option name="width" value="1932" />
     <option name="height" value="1050" />
@@ -407,23 +136,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -460,23 +178,30 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="feed-forward-neural-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feed-forward-neural-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/freetts-1.2.2-bin/freetts-1.2/lib/freetts.jar!/" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
@@ -499,20 +224,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" singleton="true" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="feed-forward-neural-network" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
@@ -532,13 +248,13 @@
       <method />
     </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list>
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -549,44 +265,52 @@
       <updated>1510817421507</updated>
       <workItem from="1510817424573" duration="328000" />
       <workItem from="1510930411544" duration="5889000" />
-      <workItem from="1510940453261" duration="807000" />
+      <workItem from="1510940453261" duration="1085000" />
     </task>
+    <task id="LOCAL-00001" summary="Done with neural net.">
+      <created>1510941474967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510941474967</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7024000" />
+    <option name="totallyTimeSpent" value="7302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5857788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19288793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58577776" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19914803" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32844242" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,35 +319,186 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done with neural net." />
+    <option name="LAST_COMMIT_MESSAGE" value="Done with neural net." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TrainingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7785">
+          <caret line="519" column="7" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/LineChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/Tensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="method#sum#0;class#Tensor#0" />
+            <element signature="method#square#0;class#Tensor#0" />
+            <element signature="method#applyToEachElement#0;class#Tensor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NeuralNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="46" column="59" lean-forward="true" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TrainingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7785">
+          <caret line="519" column="7" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/LineChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/Tensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="method#sum#0;class#Tensor#0" />
+            <element signature="method#square#0;class#Tensor#0" />
+            <element signature="method#applyToEachElement#0;class#Tensor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NeuralNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TrainingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7785">
+          <caret line="519" column="7" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/Tensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="method#sum#0;class#Tensor#0" />
+            <element signature="method#square#0;class#Tensor#0" />
+            <element signature="method#applyToEachElement#0;class#Tensor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/NeuralNetwork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
-          <caret line="60" column="39" lean-forward="false" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2323#2324#0" expanded="false" />
-            <element signature="e#2350#2351#0" expanded="false" />
-          </folding>
+          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="21" column="55" lean-forward="false" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -633,24 +508,21 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/data/TrainingData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
-          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-          <folding />
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
-          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="104" />
-          <folding />
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="104" />
         </state>
       </provider>
     </entry>
@@ -659,37 +531,16 @@
         <state relative-caret-position="595">
           <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/utils/LineChart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-618">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/javax/swing/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="213" column="17" lean-forward="false" selection-start-line="213" selection-start-column="17" selection-end-line="213" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/javax/swing/Action.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/utils/Activation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -698,82 +549,80 @@
         <state relative-caret-position="418">
           <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/sun/awt/ConstrainableGraphics.class" />
+    <entry file="file://$PROJECT_DIR$/lib/freetts-1.2.2-bin/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/NeuralNetwork.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="60" column="39" lean-forward="false" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2323#2324#0" expanded="false" />
-            <element signature="e#2350#2351#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/sun/awt/ConstrainableGraphics.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="519" column="7" lean-forward="false" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/data/TrainingData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/freetts-1.2.2-bin/META-INF/MANIFEST.MF">
+    <entry file="file://$PROJECT_DIR$/src/com/company/data/TestingData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="7785">
+          <caret line="519" column="7" selection-start-line="519" selection-start-column="7" selection-end-line="519" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/LineChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/utils/BinaryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/utils/Tensor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        <state relative-caret-position="255">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding>
-            <element signature="method#sum#0;class#Tensor#0" expanded="false" />
-            <element signature="method#square#0;class#Tensor#0" expanded="false" />
-            <element signature="method#applyToEachElement#0;class#Tensor#0" expanded="false" />
+            <element signature="method#sum#0;class#Tensor#0" />
+            <element signature="method#square#0;class#Tensor#0" />
+            <element signature="method#applyToEachElement#0;class#Tensor#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NeuralNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="913">
+          <caret line="65" column="87" lean-forward="true" selection-start-line="65" selection-start-column="87" selection-end-line="65" selection-end-column="87" />
         </state>
       </provider>
     </entry>
