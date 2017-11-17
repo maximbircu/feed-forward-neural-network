@@ -24,7 +24,7 @@ public class Tensor {
     }
 
     public static Tensor nextTensor(int rows, int columns) {
-        return Tensor.nextTensor(0.1, 1, rows, columns);
+        return Tensor.nextTensor(-Math.sqrt(6)/60, Math.sqrt(6)/60, rows, columns);
     }
 
     public static Tensor nextTensor(double rangeMin, double rangeMax, int rows, int columns) {
